@@ -30,19 +30,19 @@ Screenshots
 
 | Landing: |
 | ------------------------- |
-| <img src="https://github.com/ashwin7/altimetrik/blob/main/screenshots/landing_page.png" /> |
+| <img src="https://github.com/ashwin7/telecom-frontend/blob/main/screenshots/landing_page.png" /> |
 
 | Customer Registration: |
 | ------------------------- |
-| <img src="https://github.com/ashwin7/altimetrik/blob/main/screenshots/customer_registration.png" /> |
+| <img src="https://github.com/ashwin7/telecom-frontend/blob/main/screenshots/customer_registration.png" /> |
 
 | Plan Addition: |
 | ------------------------- |
-| <img src="https://github.com/ashwin7/altimetrik/blob/main/screenshots/add_plan.png" /> |
+| <img src="https://github.com/ashwin7/telecom-frontend/blob/main/screenshots/add_plan.png" /> |
 
 | Plan Update: |
 | ------------------------- |
-| <img src="https://github.com/ashwin7/altimetrik/blob/main/screenshots/update_plan.png" /> |
+| <img src="https://github.com/ashwin7/telecom-frontend/blob/main/screenshots/update_plan.png" /> |
 
 ### Technologies Used
 
